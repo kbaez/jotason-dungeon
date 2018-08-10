@@ -1,0 +1,7 @@
+.containerLeft{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #ffb300;
+    width: 20%;
+    justify-content: space-around;
+}

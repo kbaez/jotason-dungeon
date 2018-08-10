@@ -1,0 +1,23 @@
+{
+  "piso": 0,
+  "vida": "5/5",
+  "mapa": {
+    "1": " ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ",
+    "2": " ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ",
+    "3": " ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ",
+    "4": " ~ ~ ~ ~ ~ ~ ~ · ~ ~ ",
+    "5": " ~ ~ ~ ~ ~ · r · · · ",
+    "6": " ~ ~ ~ ~ ~ # · · · · ",
+    "7": " ~ ~ ~ ~ # · · @ · · "
+  },
+  "actualizar": "https://jotason-dungeon.herokuapp.com/partida",
+  "mover": {
+    "arriba": "https://jotason-dungeon.herokuapp.com/partida/mover?direccion=arriba",
+    "izquierda": "https://jotason-dungeon.herokuapp.com/partida/mover?direccion=izquierda",
+    "derecha": "https://jotason-dungeon.herokuapp.com/partida/mover?direccion=derecha",
+    "abajo": "https://jotason-dungeon.herokuapp.com/partida/mover?direccion=abajo"
+  },
+  "mensajes": {
+    "1": "Bienvenido, karina, al mundo de JOTASON!"
+  }
+}

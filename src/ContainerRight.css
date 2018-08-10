@@ -1,0 +1,7 @@
+.containerRight{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: coral;
+    width: 20%;
+    justify-content: space-around;
+}
